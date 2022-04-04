@@ -9,4 +9,4 @@ s = socket.socket()
 socket_host = socket.gethostname()
 ip_addr = socket.gethostbyname(socket_host)
 
-#connecting
+#connect
